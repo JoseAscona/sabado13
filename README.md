@@ -54,4 +54,17 @@ git diff
 ```
 
 # gitignore
+```sh
+touch gitignore
+```
 
+
+# Ayuda
+```sh
+
+```
+
+
+##
+```sh
+```
